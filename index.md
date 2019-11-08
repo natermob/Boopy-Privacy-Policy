@@ -1,6 +1,6 @@
-BOOPY GHOST PRIVACY POLICY
+PRIVACY POLICY
 
-This privacy policy governs your use of the software application Boopy Ghost (“Application”) for mobile devices that was created by Natermob. The Application is an arcade mobile game. What information does the Application obtain and how is it used?
+This privacy policy governs your use of the software applications for mobile devices that was created by Natermob. What information does the Application obtain and how is it used?
 
 User Provided Information The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
 
